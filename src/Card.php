@@ -1,6 +1,6 @@
 <?php
 
-class Card
+abstract class Card
 {
-
+    private Suit $suit;
 }

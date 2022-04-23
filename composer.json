@@ -1,0 +1,21 @@
+{
+    "name": "kenan/card-deck",
+    "description": "Card deck for making card game",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Kenan\\CardDeck\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Kenan Mursalov",
+            "email": "kenan.mursalov@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require-dev": {
+        "phpunit/phpunit": "^9"
+    }
+}

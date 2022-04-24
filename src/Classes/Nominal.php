@@ -13,6 +13,7 @@ enum Nominal: string
     case Seven = '7';
     case Eight = '8';
     case Nine = '9';
+    case Ten = '10';
     case Jack = 'J';
     case Quine = 'Q';
     case King = 'K';

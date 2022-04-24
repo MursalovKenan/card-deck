@@ -22,7 +22,7 @@ class Deck
         }
     }
 
-    public function getCard(): Card
+    public function getCard(): ?Card
     {
         return array_pop($this->cardDeck);
     }

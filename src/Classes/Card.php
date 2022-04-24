@@ -29,8 +29,8 @@ class Card
 
     public function printCardName(): string
     {
-        $cardName = $this->nominal->name . ' ';
-        $cardName .= $this->suit->name . PHP_EOL;
+        $cardName = $this->nominal->value . ' ';
+        $cardName .= $this->suit->name;
         return $cardName;
     }
 }

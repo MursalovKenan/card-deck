@@ -1,4 +1,7 @@
 <?php
+
+namespace CardDeck\Classes;
+
 enum Suit
 {
     case Hearts;

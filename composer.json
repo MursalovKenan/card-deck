@@ -1,6 +1,6 @@
 {
     "name": "mursalov/card-deck",
-    "description": "Card deck for making card game",
+    "description": "Card deck for making cool card game",
     "type": "library",
     "license": "MIT",
     "autoload": {

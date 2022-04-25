@@ -1,6 +1,6 @@
 {
     "name": "mursalov/card-deck",
-    "description": "Card deck for making cool card game",
+    "description": "Card deck without joker for making cool card game like black jack poker etc.",
     "type": "library",
     "license": "MIT",
     "autoload": {
@@ -14,5 +14,8 @@
             "email": "kenan.mursalov@gmail.com"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=8.1"
+    }
 }
